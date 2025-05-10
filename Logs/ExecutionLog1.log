@@ -1,0 +1,10 @@
+2025-05-10 14:13:05,444 [main] INFO 23rdNov24_CoverFox - Welcome to the CoverFox
+2025-05-10 14:13:20,178 [main] WARN 23rdNov24_CoverFox - launching browser
+2025-05-10 14:13:23,875 [main] INFO 23rdNov24_CoverFox - Clicking on Gender
+2025-05-10 14:13:26,325 [main] INFO 23rdNov24_CoverFox - Clicking on Next Button of Health Plan Page
+2025-05-10 14:13:28,490 [main] INFO 23rdNov24_CoverFox - Handleing Age DropDown
+2025-05-10 14:13:28,639 [main] INFO 23rdNov24_CoverFox - Clicking on Next Button of Members Details Page
+2025-05-10 14:13:29,303 [main] INFO 23rdNov24_CoverFox - Entering PinCode
+2025-05-10 14:13:29,644 [main] INFO 23rdNov24_CoverFox - Entering Mobile_No.
+2025-05-10 14:13:29,889 [main] INFO 23rdNov24_CoverFox - Clicking on Next Button of Address Details Page
+2025-05-10 14:13:35,849 [main] INFO 23rdNov24_CoverFox - Closing Browser
