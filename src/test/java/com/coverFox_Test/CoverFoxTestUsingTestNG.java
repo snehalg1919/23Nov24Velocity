@@ -94,6 +94,10 @@ public class CoverFoxTestUsingTestNG extends Base{
   {
 	 closeBrowserWindow();
 	 logger.info("Closing Browser");
+	 Reporter.log("enddddddddd",true);
+	 Reporter.log("first  enddddddddd",true);
+
+	 
   }
   
 }
