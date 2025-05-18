@@ -3,6 +3,7 @@ package com.coverFox_Utility;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.time.Duration;
 import java.util.Properties;
 
 import org.apache.poi.EncryptedDocumentException;
@@ -13,7 +14,6 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.devtools.idealized.Javascript;
 import org.openqa.selenium.io.FileHandler;
 import org.testng.Reporter;
 
@@ -50,6 +50,7 @@ public class Utility
 	  Reporter.log("scrolling into view", true);
   }
   
+  //Properties files
   public static String readDataFromPropertiesFile(String key) throws IOException
 	{
 		Properties prop= new Properties();
@@ -60,5 +61,19 @@ public class Utility
 		
 		return value;
 	}
+  
+  //wait for some time
+  public void imlicitwait(WebDriver driver,int timeInMiliSec)
+  {
+	  Reporter.log("waiting for",true);
+	  driver.manage().timeouts().implicitlyWait(Duration.ofMillis(timeInMiliSec));
+	  
+  }
+  //send keys
+  
+  public void sendkeys(WebElement element, String text)
+  {
+	  element.sendKeys(text);
+  }
 
 }

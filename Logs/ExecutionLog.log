@@ -8,3 +8,13 @@
 2025-05-10 14:13:29,644 - 23rdNov24_CoverFox -INFO - Entering Mobile_No.
 2025-05-10 14:13:29,889 - 23rdNov24_CoverFox -INFO - Clicking on Next Button of Address Details Page
 2025-05-10 14:13:35,849 - 23rdNov24_CoverFox -INFO - Closing Browser
+2025-05-18 10:06:40,575 - 23rdNov24_CoverFox -INFO - Welcome to the CoverFox
+2025-05-18 10:06:46,630 - 23rdNov24_CoverFox -WARN - launching browser
+2025-05-18 10:06:47,672 - 23rdNov24_CoverFox -INFO - Clicking on Gender
+2025-05-18 10:06:48,171 - 23rdNov24_CoverFox -INFO - Clicking on Next Button of Health Plan Page
+2025-05-18 10:06:49,234 - 23rdNov24_CoverFox -INFO - Handleing Age DropDown
+2025-05-18 10:06:49,312 - 23rdNov24_CoverFox -INFO - Clicking on Next Button of Members Details Page
+2025-05-18 10:06:49,850 - 23rdNov24_CoverFox -INFO - Entering PinCode
+2025-05-18 10:06:49,995 - 23rdNov24_CoverFox -INFO - Entering Mobile_No.
+2025-05-18 10:06:50,077 - 23rdNov24_CoverFox -INFO - Clicking on Next Button of Address Details Page
+2025-05-18 10:06:55,346 - 23rdNov24_CoverFox -INFO - Closing Browser
